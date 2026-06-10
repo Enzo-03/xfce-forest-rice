@@ -6,6 +6,7 @@ overview:
 - de: xfce
 - theme: forest
 - icons: se98
+- font: noto sans mono regular
 
 programs:
 - default terminal
