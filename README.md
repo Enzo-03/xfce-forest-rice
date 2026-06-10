@@ -1,5 +1,6 @@
 here is the basic rice/setup i am currently running on my thinkpad, it aims to be lightweight as well as look good! I primarily use this setup for focused schoolwork, so its pretty barebones in terms of the programs i use.
 heavily inspired by this reddit post by u/sharpethe1st (theme and icons): https://www.reddit.com/r/xfce/s/8J0cmXNGvi
+
 overview:
 - os: debian 13
 - de: xfce
