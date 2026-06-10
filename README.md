@@ -6,6 +6,7 @@ overview:
 - de: xfce
 - theme: forest
 - icons: se98
+
 programs:
 - default terminal
 - thunar 
@@ -13,10 +14,12 @@ programs:
 - localsend
 - kew music player
 - fastfetch (ofc)
+
 my hardware config:
 - thinkpad t430
 - i5 3320m
 - 8gb ddr3
 - 120gb ssd
+
 <img width="1600" height="900" alt="forest-desktop" src="https://github.com/user-attachments/assets/95ef2ee1-4210-4bd0-92b3-4124323c8cea" />
 <img width="1600" height="900" alt="forest-kew-fastfetch" src="https://github.com/user-attachments/assets/65912da0-240a-4141-95f8-7d8b88ed5867" />
